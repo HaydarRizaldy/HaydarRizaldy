@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://haydarrizaldy.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Data+Engineer+Intern+%40+ALVA+Digital+Network;Turning+Data+Into+Insight;Building+Solutions+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=600&color=7AA2F7&center=true&vCenter=true&width=720&lines=SQL+by+Day%2C+Python+by+Night;SELECT+%2A+FROM+life+WHERE+bugs+%3D+0;Automating+the+Boring+Stuff;It+Works+On+My+Machine;Cleaning+Data+So+You+Don%27t+Have+To;Debugging%3A+Detective+and+Culprit;Curious+Mind%2C+Clean+Code;Professional+Googler+of+Errors;Not+a+Bug%2C+It%27s+a+Feature;Ctrl%2BC%2C+Ctrl%2BV%2C+Ctrl%2BPray;Open+to+Collaborate+-+Let%27s+Connect%21" alt="Typing SVG" />
 </a>
 
 # Hi, I'm Haydar Rizaldy 👋
