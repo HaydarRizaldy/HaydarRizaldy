@@ -48,27 +48,25 @@ Data engineer focused on analytics, data engineering, and applied automation.
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/HaydarRizaldy/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HaydarRizaldy&repo=portfolio&theme=tokyonight&hide_border=true" alt="portfolio" /></a>
-<a href="https://github.com/HaydarRizaldy/Credit-Risk-Prediction-and-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HaydarRizaldy&repo=Credit-Risk-Prediction-and-Analysis&theme=tokyonight&hide_border=true" alt="Credit-Risk-Prediction-and-Analysis" /></a>
-<a href="https://github.com/HaydarRizaldy/Predict-Diabetes-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HaydarRizaldy&repo=Predict-Diabetes-Classification&theme=tokyonight&hide_border=true" alt="Predict-Diabetes-Classification" /></a>
-<a href="https://github.com/HaydarRizaldy/ImageClassification-RockPaperScissor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HaydarRizaldy&repo=ImageClassification-RockPaperScissor&theme=tokyonight&hide_border=true" alt="ImageClassification-RockPaperScissor" /></a>
-<a href="https://github.com/HaydarRizaldy/Sort-Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HaydarRizaldy&repo=Sort-Visualization&theme=tokyonight&hide_border=true" alt="Sort-Visualization" /></a>
-<a href="https://github.com/HaydarRizaldy/Credit-Card-Customers-Statistics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HaydarRizaldy&repo=Credit-Card-Customers-Statistics&theme=tokyonight&hide_border=true" alt="Credit-Card-Customers-Statistics" /></a>
-
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| 🌐 [portfolio](https://github.com/HaydarRizaldy/portfolio) | Personal portfolio site — [live](https://haydarrizaldy.vercel.app) | Next.js · Tailwind · Vercel |
+| 💳 [Credit-Risk-Prediction-and-Analysis](https://github.com/HaydarRizaldy/Credit-Risk-Prediction-and-Analysis) | Credit risk prediction and analysis | Python · Jupyter |
+| 🩺 [Predict-Diabetes-Classification](https://github.com/HaydarRizaldy/Predict-Diabetes-Classification) | Diabetes classification model | Python · Jupyter |
+| ✊ [ImageClassification-RockPaperScissor](https://github.com/HaydarRizaldy/ImageClassification-RockPaperScissor) | Rock-paper-scissors image classifier | Python · TensorFlow |
+| 📶 [Sort-Visualization](https://github.com/HaydarRizaldy/Sort-Visualization) | Quick & bubble sort visualizer with a Tkinter GUI | Python · Tkinter |
+| 📈 [Credit-Card-Customers-Statistics](https://github.com/HaydarRizaldy/Credit-Card-Customers-Statistics) | Statistical analysis of credit card customers | Python · Jupyter |
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HaydarRizaldy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaydarRizaldy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
 
 <img src="https://streak-stats.demolab.com?user=HaydarRizaldy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=HaydarRizaldy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 
 </div>
 
